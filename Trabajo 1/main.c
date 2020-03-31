@@ -42,7 +42,7 @@ int menu(people_t matriz[],int cont, people_t matrizanual[]){
 }
 
 int main(){
-	people_t matriz[4];
+	people_t matriz[59];
 	int cont = 0;
 	people_t matrizanual [11];
 	int * pCont = &cont;
