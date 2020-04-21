@@ -1,6 +1,9 @@
 #include <string.h>
 #include "28M.h"
 
+/* Esta muy bien organizado tu codigo, ojo con el estándar de nombramiento, no 
+vi la función recursiva y tampoco es muy evidente el uso de enums */
+
 struct people llenarPersonas(){
 	struct people persona;
 	printf("Ingrese el nombre (max 50 caracteres):\n");
@@ -54,6 +57,7 @@ people_t BuscarPersonaNombre(people_t matriz[], int cont,char nombre[]){
 
 int BuscarIndice(people_t matriz[], int cont,char nombre[]){
 	for (int i = 0; i <= cont; ++i){
+		// Luisa: posiblemente esto no te funcione, pq las cadenas no se pueden comparar con ==
 		if (matriz[i].nombre == nombre){
 			return i;
 		}
