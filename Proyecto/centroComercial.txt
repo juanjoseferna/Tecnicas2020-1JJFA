@@ -1,0 +1,64 @@
+Nombre local : Mokas 
+Id local : 0 
+Piso local : 1 
+Numero local : 1 
+Estado local : Ocupado 
+Ingresos local : 2000 
+Mes de creacion : 2 
+
+Nombre local : Likos 
+Id local : 3 
+Piso local : 1 
+Numero local : 2 
+Estado local : Ocupado 
+Ingresos local : 3000 
+Mes de creacion : 2 
+
+Nombre local : Mikas 
+Id local : 6 
+Piso local : 1 
+Numero local : 3 
+Estado local : Ocupado 
+Ingresos local : 10000 
+Mes de creacion : 4 
+
+Nombre local : Vacio 
+Id local : 9 
+Piso local : 1 
+Numero local : 4 
+Estado local : Disponible 
+Ingresos local : 0 
+Mes de creacion : 0 
+
+Nombre local : Vacio 
+Id local : 1 
+Piso local : 2 
+Numero local : 1 
+Estado local : Disponible 
+Ingresos local : 0 
+Mes de creacion : 0 
+
+Nombre local : Vacio 
+Id local : 4 
+Piso local : 2 
+Numero local : 2 
+Estado local : Disponible 
+Ingresos local : 0 
+Mes de creacion : 0 
+
+Nombre local : Vacio 
+Id local : 7 
+Piso local : 2 
+Numero local : 3 
+Estado local : Disponible 
+Ingresos local : 0 
+Mes de creacion : 0 
+
+Nombre local : Vacio 
+Id local : 10 
+Piso local : 2 
+Numero local : 4 
+Estado local : Disponible 
+Ingresos local : 0 
+Mes de creacion : 0 
+
